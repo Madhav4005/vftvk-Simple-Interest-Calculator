@@ -69,3 +69,10 @@ table td
 {
     background-color: #ffff00;
 }
+#foot {
+    background-color: black;
+    color:white;
+    font-size: 20px;
+    height: 100px;
+    margin-left: 650px;
+  }
